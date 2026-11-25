@@ -1,0 +1,22 @@
+{
+"BTC":{"name":"Bitcoin","symbol":"BTC","type":"crypto","coingecko_id":"bitcoin","decimal_digits":8},
+"ETH":{"name":"Ethereum","symbol":"ETH","type":"crypto","coingecko_id":"ethereum","decimal_digits":8},
+"USDT":{"name":"Tether","symbol":"USDT","type":"crypto","coingecko_id":"tether","decimal_digits":6},
+"USDC":{"name":"USD Coin","symbol":"USDC","type":"crypto","coingecko_id":"usd-coin","decimal_digits":6},
+"BNB":{"name":"BNB","symbol":"BNB","type":"crypto","coingecko_id":"binancecoin","decimal_digits":8},
+"XRP":{"name":"XRP","symbol":"XRP","type":"crypto","coingecko_id":"ripple","decimal_digits":6},
+"SOL":{"name":"Solana","symbol":"SOL","type":"crypto","coingecko_id":"solana","decimal_digits":8},
+"DOGE":{"name":"Dogecoin","symbol":"DOGE","type":"crypto","coingecko_id":"dogecoin","decimal_digits":6},
+"ADA":{"name":"Cardano","symbol":"ADA","type":"crypto","coingecko_id":"cardano","decimal_digits":6},
+"TRX":{"name":"TRON","symbol":"TRX","type":"crypto","coingecko_id":"tron","decimal_digits":6},
+"TON":{"name":"Toncoin","symbol":"TON","type":"crypto","coingecko_id":"the-open-network","decimal_digits":6},
+"DOT":{"name":"Polkadot","symbol":"DOT","type":"crypto","coingecko_id":"polkadot","decimal_digits":6},
+"LTC":{"name":"Litecoin","symbol":"LTC","type":"crypto","coingecko_id":"litecoin","decimal_digits":8},
+"BCH":{"name":"Bitcoin Cash","symbol":"BCH","type":"crypto","coingecko_id":"bitcoin-cash","decimal_digits":8},
+"AVAX":{"name":"Avalanche","symbol":"AVAX","type":"crypto","coingecko_id":"avalanche-2","decimal_digits":6},
+"LINK":{"name":"Chainlink","symbol":"LINK","type":"crypto","coingecko_id":"chainlink","decimal_digits":6},
+"SHIB":{"name":"Shiba Inu","symbol":"SHIB","type":"crypto","coingecko_id":"shiba-inu","decimal_digits":2},
+"XMR":{"name":"Monero","symbol":"XMR","type":"crypto","coingecko_id":"monero","decimal_digits":8},
+"XLM":{"name":"Stellar","symbol":"XLM","type":"crypto","coingecko_id":"stellar","decimal_digits":6},
+"SUI":{"name":"Sui","symbol":"SUI","type":"crypto","coingecko_id":"sui","decimal_digits":6}
+}
